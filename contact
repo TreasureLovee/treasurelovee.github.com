@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <title>Contact Info </title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body>
+	<div id="header">
+	</div>
+	<div id="left_column">
+		<a href= "TreasureLove.html">
+			home<br>
+		</a>
+	</div>
+	<div id="main_content"></div>
+	<div id="footer"></div>
+	<form>
+	First name: <input type="text" name="firstname"><br>
+	</form>
+	<form>
+	Last name: <input type="text" name="lastname">
+	</form>
+	<form>
+	Phone number: <input type="text" name="phone number">
+	</form>
+	<form>
+	Email Address: <input type= "text" name="Email Address">
+	</form>
+	<form>
+	        <input type="submit" value="Submit">
+	        </form>
